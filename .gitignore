@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+#data
+data/
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Hugging Face
+*.bin
+*.pt
+*.ckpt
+*.h5
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

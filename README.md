@@ -6,7 +6,7 @@ colorFrom: purple
 colorTo: indigo
 sdk: docker
 pinned: true
-------------
+---
 
 # 🤖 TCS GPT‑2 Chatbot
 
